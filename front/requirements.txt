@@ -1,0 +1,14 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+click
+numpy
+pandas
+python-dotenv
+dash
+transformers
+torch
+google-search-results
+gunicorn
+dash-daq
+psycopg2-binary
+sqlalchemy
+dash_bootstrap_components
