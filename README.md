@@ -98,4 +98,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Transformers](https://huggingface.co/transformers/)
 - [SerpApi](https://serpapi.com/)
 
-For more details, visit the [project blog](https://taniwa.es/blog/clickbait_es/).
+For more details, visit the [project blog](https://taniwa.es/articles/clickbait_es/).
